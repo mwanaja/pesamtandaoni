@@ -20,9 +20,9 @@
         "display5Font": "Roboto",
         "display5Size": 1.8,
         "display7Font": "Roboto",
-        "display7Size": 1.1,
+        "display7Size": "1.6",
         "display4Font": "Roboto",
-        "display4Size": "0.8",
+        "display4Size": "1.6",
         "isRoundedButtons": true,
         "isScrollToTopButton": true,
         "arrowColor": "#4ea2e3"
@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 43,
+    "uniqCompNum": 51,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png"
   },
@@ -87,7 +87,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"content4 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-text>Habari  yako ni matumaini  yangu kuwa ni mzima wa afya na unaendelea na harakati za kimaisha.\n<div>&nbsp; Karibu katika mfululizo wa makala ambazo zitaenda kukueleza ni namna gani unaweza kutengeneza kipato chako cha ziada  bila kuathiri shughuli zako  za kila siku. \n</div><div>&nbsp;\n</div><div>Kwanza ni vyema kama nikijitambulisha \n</div><div>Kwa majina kamili naitwa &nbsp;FARIDI ADIDI SADICK  ila najulikana sana kama MWANAJAMII. Nahusika sana na masewala ya mtandao na nimeanza kujihusisha rasmi toka mwaka 2009</div><div><br></div><div><b>&nbsp; Kwa saa nafanya mambo yafatayo\n</b></div><div>1.\tNatengenea website  kwa kutumia wordpress na joomla\n</div><div>2.\tNatengeneza na kudesign blogs kwa kutumia blogger na wordpress\n</div><div>3.\tNatoa mafunzo mtandaoni kuhusu maswala ya website na computer\n</div><div>4.\tNafanya network marketing kupitia kampuni ya BF SUMA \n</div><div>Ila kwa uhalisia ukiacha hayo nayo yafanya kitaaluma mimi ni Mwalimu tena mwalimu wa shule ya msingi  specialized katika masomo ya Sayansi, Hisabati na I.C.T\n</div><div>Nipo hapa kukueleza ni vipi unaweza kutengeneza kipato cha ziada bila mtaji  au kuazisha biashara kwa mtaji mdogo  wa tsh 150000 hadi 250000 na ukaweza  kutengeneza kipato cha hadi 500000 kwa mwezi  bila kuathiri shughuli zako zingine.\n</div><div>&nbsp;Kwa upande wangu nimeweza kupata faida nyingi na kuweza kutimiza malengo yangu japo siyo yote toka nimeanza kujihusisha na maswala haya ya mtanda. Na naamini yatazidi kutimia kwani bado naendelea nayo.\n</div><div>\n</div><div><b><i>Katika mafunzo haya tutaenda kuangalia njia mbili\n</i></b></div><div><b>1.\tKUPITIA BIASHARA YA MTANDAO (NETWORK MARKETING)\n</b></div><div><b>2.\tKUPITIA MTANDAO WA YOUTUBE\n</b></div><div>\n</div><div><b>&nbsp; &nbsp;Kwa maswali na ushauri waweza wasiliana name kupitia \n</b></div><div><b>SIMU/SMS/WHATSAAP:</b> <b>0659505081</b>\n</div><div><b>EMAIL : faridisadick@outlook.com\n</b></div><div><b>FACEBOOK: MWANAJAMII ONLINE\n</b></div><div><b>TWITTER: @mwanajamia\n</b></div><div><br></div></div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"content4 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-text>Habari  yako ni matumaini  yangu kuwa ni mzima wa afya na unaendelea na harakati za kimaisha.\n<div>&nbsp; Karibu katika mfululizo wa makala ambazo zitaenda kukueleza ni namna gani unaweza kutengeneza kipato chako cha ziada  bila kuathiri shughuli zako  za kila siku. \n</div><div>&nbsp;\n</div><div><b>Kwanza ni vyema kama nikijitambulisha \n</b></div><div>Kwa majina kamili naitwa &nbsp;FARIDI ADIDI SADICK  ila najulikana sana kama MWANAJAMII. Nahusika sana na masewala ya mtandao na nimeanza kujihusisha rasmi toka mwaka 2009</div><div><br></div><div><b>&nbsp; Kwa saa nafanya mambo yafatayo\n</b></div><div>1.\tNatengenea website  kwa kutumia wordpress na joomla\n</div><div>2.\tNatengeneza na kudesign blogs kwa kutumia blogger na wordpress\n</div><div>3.\tNatoa mafunzo mtandaoni kuhusu maswala ya website na computer\n</div><div>4.\tNafanya network marketing kupitia kampuni ya BF SUMA \n</div><div>Ila kwa uhalisia ukiacha hayo nayo yafanya kitaaluma mimi ni Mwalimu tena mwalimu wa shule ya msingi  specialized katika masomo ya Sayansi, Hisabati na I.C.T\n</div><div>Nipo hapa kukueleza ni vipi unaweza kutengeneza kipato cha ziada bila mtaji  au kuazisha biashara kwa mtaji mdogo  wa tsh 150000 hadi 250000 na ukaweza  kutengeneza kipato cha hadi 500000 kwa mwezi  bila kuathiri shughuli zako zingine.\n</div><div>&nbsp;Kwa upande wangu nimeweza kupata faida nyingi na kuweza kutimiza malengo yangu japo siyo yote toka nimeanza kujihusisha na maswala haya ya mtanda. Na naamini yatazidi kutimia kwani bado naendelea nayo.\n</div><div>\n</div><div><b><i>Katika mafunzo haya tutaenda kuangalia njia mbili\n</i></b></div><div><b>1.\tKUPITIA BIASHARA YA MTANDAO (NETWORK MARKETING)\n</b></div><div><b>2.\tKUPITIA MTANDAO WA YOUTUBE</b></div></div>\n    </div>\n</section>",
           "_cid": "rdJ3WBpyI2",
           "_anchor": "content4-1",
           "_protectedParams": [],
@@ -147,6 +147,25 @@
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text": {
+              "padding": "2rem 0",
+              "text-align": "center"
+            }
+          },
+          "_name": "content16",
+          "_customHTML": "<section class=\"content16 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#0dd1ff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-white mbr-bold\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\" mbr-text><i>Kwa maswali na ushauri waweza wasiliana name kupitia\n</i><div><i>SIMU/SMS/WHATSAAP: 0659505081\n</i></div><div><i>EMAIL : faridisadick@outlook.com\n</i></div><div><i>FACEBOOK: MWANAJAMII ONLINE\n</i></div><div><i>TWITTER: @mwanajamia</i></div></div>\n    </div>\n</section>",
+          "_cid": "rdW6ffbilU",
+          "_anchor": "content16-18",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)"
             },
@@ -161,11 +180,11 @@
           "_name": "footer1",
           "_customHTML": "<section class=\"footer1\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background4.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#232323\" selected>\n        </fieldset>\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"mbr-col-sm-12 align-center mbr-white\">\n            <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-col-sm-12, .mbr-text\" data-app-placeholder=\"Type Text\">\n                © Copyright 2018 Mwanajamii Service - All Rights Reserved\n            </p>\n        </div>\n    </div>\n</section>",
           "_cid": "rdVVBkw1PI",
+          "_anchor": "footer1-14",
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
-          "_params": {},
-          "_anchor": "footer1-14"
+          "_params": {}
         }
       ]
     },
@@ -278,7 +297,7 @@
             }
           },
           "_name": "features10",
-          "_customHTML": "<section class=\"features10\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"flexDirection\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n       \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/20170829141611-482-770x267.jpg\" layout=\"responsive\" width=\"539.2883895131087\" height=\"187\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                    <div placeholder class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/20170829141611-482-770x267.jpg\" alt=\"Mobirise\" title>\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-6\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-left\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>KUHUSU KAMPUNI YA BF SUMA \n</b></h3>\n                <p class=\"mbr-fonts-style mbr-text align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">BF SUMA NI NINI? \n<br>BF SUMA ni kampuni ya Kimarekani ambayo imejiwekeza hapa nchini. Neno BF SUMA ni kifupisho cha maneno Bright, Future, Superior, Unique ,Manufacturer of America.&nbsp;</p>\n                <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-sm btn-primary\" href=\"page3.html\" data-app-placeholder=\"Type Text\">READ MORE</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"features10\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\" checked=\"\">\n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"flexDirection\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n       \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/20170829141611-482-770x267.jpg\" layout=\"responsive\" width=\"539.2883895131087\" height=\"187\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/20170829141611-482-770x267.jpg\" alt=\"Mobirise\" title=\"\">\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-6\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-left\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>KUHUSU KAMPUNI YA BF SUMA \n</b></h3>\n                <p class=\"mbr-fonts-style mbr-text align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">BF SUMA NI NINI? \n<br>BF SUMA ni kampuni ya Kimarekani ambayo imejiwekeza hapa nchini. Neno BF SUMA ni kifupisho cha maneno Bright, Future, Superior, Unique ,Manufacturer of America.&nbsp;</p>\n                <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-4\"><a class=\"btn btn-sm btn-primary\" href=\"page3.html\" data-app-placeholder=\"Type Text\">READ MORE</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rdVT1g0iFR",
           "_anchor": "features10-12",
           "_protectedParams": [],
@@ -308,7 +327,7 @@
             }
           },
           "_name": "features10",
-          "_customHTML": "<section class=\"features10\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"1\" step=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"flexDirection\" checked>\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#eaeaea\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n       \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/bf-tz-770x433.jpg\" layout=\"responsive\" width=\"540.6004618937644\" height=\"304\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                    <div placeholder class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/bf-tz-770x433.jpg\" alt=\"Mobirise\" title>\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-6\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-left\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>JINSI YA KUJIUNGA NA BF SUMA</b></h3>\n                <p class=\"mbr-fonts-style mbr-text align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">KWANZA KWANINI UJIUNGE NA BF SUMA?\n<br>BF SUMA imeweza kuwasaidia mamilioni ya watu kuweza kufanikisha na kufikia malengo yao tena kwa urahisi kabisa hii inajumuisha malengo yao kiafya na kiuchumi kupitia program yake ya biashara ya kimtandao&nbsp;<br></p>\n                <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-sm btn-primary\" href=\"page4.html\" data-app-placeholder=\"Type Text\">READ MORE</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"features10\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"1\" step=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\" checked=\"\">\n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"flexDirection\" checked=\"\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#eaeaea\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n       \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/bf-tz-770x433.jpg\" layout=\"responsive\" width=\"540.6004618937644\" height=\"304\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/bf-tz-770x433.jpg\" alt=\"Mobirise\" title=\"\">\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-6\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-left\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>JINSI YA KUJIUNGA NA BF SUMA</b></h3>\n                <p class=\"mbr-fonts-style mbr-text align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">KWANZA KWANINI UJIUNGE NA BF SUMA?\n<br>BF SUMA imeweza kuwasaidia mamilioni ya watu kuweza kufanikisha na kufikia malengo yao tena kwa urahisi kabisa hii inajumuisha malengo yao kiafya na kiuchumi kupitia program yake ya biashara ya kimtandao&nbsp;<br></p>\n                <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-4\"><a class=\"btn btn-sm btn-primary\" href=\"page4.html\" data-app-placeholder=\"Type Text\">READ MORE</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rdJhmOafXc",
           "_anchor": "features10-o",
           "_protectedParams": [],
@@ -338,7 +357,7 @@
             }
           },
           "_name": "features10",
-          "_customHTML": "<section class=\"features10\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\" checked>\n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"flexDirection\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n       \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/best-multi-level-marketing-companies-420x280.jpg\" layout=\"responsive\" width=\"540\" height=\"360\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                    <div placeholder class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/best-multi-level-marketing-companies-420x280.jpg\" alt=\"Mobirise\" title>\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-6\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-left\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>NJIA ZA KUTENGENEZA PESA</b></h3>\n                <p class=\"mbr-fonts-style mbr-text align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Kuna njia kuu mbili za kutengeneza pesa ndani ya BF SUMA, \n<br>1.\tKupitia mauzo ya bidhaa\n<br>Kampuni hutoa bidhaa kwa wasambazaji kwa bei ya punguzo ambayo ni karibia nusu bei ya bei halisi. Hivyo unapoenda kuuza unaweza pata faida  ambayo ni nusu nzima.&nbsp;<br></p>\n                <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\"><a class=\"btn btn-sm btn-primary\" href=\"page5.html\" data-app-placeholder=\"Type Text\">READ MORE</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"features10\" group=\"Features\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"2\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\" checked=\"\">\n        <input type=\"checkbox\" title=\"Media on Left/Right\" name=\"flexDirection\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n       \n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"image-block mbr-col-sm-12 mbr-col-md-6\">\n                <amp-img src=\"@PROJECT_PATH@/assets/images/best-multi-level-marketing-companies-420x280.jpg\" layout=\"responsive\" width=\"540\" height=\"360\" alt=\"Mobirise\" class=\"mobirise-loader\">\n                    <div placeholder=\"\" class=\"placeholder\"></div>\n                    <img class=\"mbr-temp\" src=\"@PROJECT_PATH@/assets/images/best-multi-level-marketing-companies-420x280.jpg\" alt=\"Mobirise\" title=\"\">\n                </amp-img>\n            </div>\n            <div class=\"text-block mbr-col-sm-12 mbr-col-md-6\">\n                <h3 class=\"mbr-section-title mbr-fonts-style align-left\" mbr-theme-style=\"display-5\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>NJIA ZA KUTENGENEZA PESA</b></h3>\n                <p class=\"mbr-fonts-style mbr-text align-left\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">Kuna njia kuu mbili za kutengeneza pesa ndani ya BF SUMA, \n<br>1.\tKupitia mauzo ya bidhaa\n<br>Kampuni hutoa bidhaa kwa wasambazaji kwa bei ya punguzo ambayo ni karibia nusu bei ya bei halisi. Hivyo unapoenda kuuza unaweza pata faida  ambayo ni nusu nzima.&nbsp;<br></p>\n                <div class=\"mbr-section-btn align-left\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons=\"\" mbr-theme-style=\"display-4\"><a class=\"btn btn-sm btn-primary\" href=\"page5.html\" data-app-placeholder=\"Type Text\">READ MORE</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rdJiv3YGjj",
           "_anchor": "features10-p",
           "_protectedParams": [],
@@ -406,11 +425,11 @@
           "_name": "content2",
           "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#eaeaea\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\"><b>BF SUMA NI NINI? \n</b></h3>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>BF SUMA ni kampuni ya Kimarekani ambayo imejiwekeza hapa nchini. Neno BF SUMA ni kifupisho cha maneno Bright,  Future, Superior, Unique ,Manufacturer of America. Kampuni hii inahusika na utengenezaji na usambazaji wa bidhaa za Afya na  urembo zisizo na madhara ya kikemikali kwa mtumiaji.\n<br>\n<br>MALENGO\n<br> _____\n<br>Kuboresha Afya za binadamu kwa kukinga na kutibu Magonjwa mbalimbali pia Kuboresha Kipato kupitia bidhaa hizi&nbsp;<br><br>BIDHAA GANI ZINATENGENEZWA\n<br> _______\n<br>Bidhaa zinazotengenezwa ni tiba Lishe....Tiba asilia zisizo na kemikali zinatibu Magonjwa mbalimbali...Magonjwa ya Mifupa..Maginjwa ya Moyo...Magonjwa ya Mmengenyo wa chakula kama gesi..Vidonda vya tumbo..Bawasiri...Uvimbe...Uzazi kwa wanaume na wanawake na Magonjwa yote hatarishi&nbsp;<br></p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rdVIpRy9Sk",
+          "_anchor": "content2-u",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content2-u"
+          "_params": {}
         },
         {
           "_styles": {
@@ -421,11 +440,11 @@
           "_name": "content5",
           "_customHTML": "<section class=\"mbr-section content5\" plugins=\"amp-main\" group=\"Article\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"page1.html\" data-app-placeholder=\"Type Text\">RUDI NYUMA</a></div>\n    </div>\n</section>",
           "_cid": "rdVIZ0TXf9",
+          "_anchor": "content5-v",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content5-v"
+          "_params": {}
         }
       ]
     },
@@ -450,11 +469,11 @@
           "_name": "content2",
           "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#eaeaea\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\"><b>JINSI YA KUJIUNGA NA BF SUMA \n</b></h3>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>KWANZA KWANINI UJIUNGE NA BF SUMA?\n<br>BF SUMA imeweza kuwasaidia mamilioni ya watu kuweza kufanikisha na kufikia malengo yao tena kwa urahisi kabisa hii inajumuisha malengo yao kiafya na kiuchumi kupitia program yake ya biashara ya kimtandao\n<br> Lakini pia unapata nafasi ya kuanzisha na kumiliki biashara yako mwenyewe pindi unapojiunga na kampuni ya BF SUMA na hivyo kuwa boss mwenyewe.\n<br>\n<br><b>FAIDA UNAZO PATA UKIJIUNGA NA BF SUMA\n<br></b>Zipo faida nyingi unazoweza kupata ukiwa balozi wa bfsuma ambazo nikama zifuatazo\n<br>1.Bonus za kila mwezi...hii inategemea perfomance yako wewe na team yako\n<br>2.Bonus za safari\n<br>3.Bonus za Magari\n<br>4.Bonus za Nyumba , nk\n<br>\n<br><b>JE NAPATAJE NAFASI Y KUWA MWANACHAMA\n<br></b> ________\n<br>ili kuwa mwanachama unaitaji kutoa sh 150,000 hadi 250,000 yakitanzania..utasajiriwa kwa Mujibu wa sheria za BFSUMA\n<br>Unaweza kuja ofisin kwetu au kuwasiliana na alie kushirikisha hii fursa\n<br>\n<br><b>NINI KINAFATA UKISHAJIUNGA?\n<br></b> Unapo jiunga na BF SUMA utapatiwa mkoba wako wa kazi ambao utakuwa na vitu vifuatavyo\n<br>1.\tKadi ya uanachama\n<br>2.\tKitabu cha maelezo kuhusu kampuni na maelezo ya bidhaa na mfumo wa bishara unavyo fanya kazi\n<br>3.\tBadge\n<br>4.\tCd /dvd ambayo huelezea kwa undani historia ya kampuni\n<br>5.\tBidhaa moja bure kwa matumizi yako binafsi\n<br>Lakini ukishakuwa mwanachama utapata nafasi ya kuhudhuria mafunzo yanayohusu jinsi ya kuendesha biashara yako pamoja na mafunzo juu ya bidhaa zinazo tengenezwa na kampuni. Mafunzo haya ni bure kabisa na pia utapata kuunganishwa kwenye makundi ya whatsapp ili kupata msaada wa haraka.&nbsp;<br></p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rdVK6YXh7p",
+          "_anchor": "content2-w",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content2-w"
+          "_params": {}
         },
         {
           "_styles": {
@@ -465,11 +484,11 @@
           "_name": "content5",
           "_customHTML": "<section class=\"mbr-section content5\" plugins=\"amp-main\" group=\"Article\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"page1.html\" data-app-placeholder=\"Type Text\">RUDI NYUMA</a></div>\n    </div>\n</section>",
           "_cid": "rdVK6ZzRKq",
+          "_anchor": "content5-x",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content5-x"
+          "_params": {}
         }
       ]
     },
@@ -494,11 +513,11 @@
           "_name": "content2",
           "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#eaeaea\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\"><b>NJIA ZA KUTENGENEZA PESA: \n</b></h3>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Kuna njia kuu mbili za kutengeneza pesa ndani ya BF SUMA, \n<br>1.\tKupitia mauzo ya bidhaa\n<br>Kampuni hutoa bidhaa kwa wasambazaji kwa bei ya punguzo ambayo ni karibia nusu bei ya bei halisi. Hivyo unapoenda kuuza unaweza pata faida  ambayo ni nusu nzima.\n<br> Mfano : kama bei halisi yabidhaa ni tsh 50000 basi kambuni itakuuzia kwa tsh 25000 na hivyo wewe ukienda kuuza utapata faida ya tsh 25000.\n<br>2.\tKupitia bonus za kila mwezi. \n<br>Unapokuwa unafanya mauzo basi unakuwa unajitengenezea point kutokana na bidhaa hizo. Hizo point hukuwezesha wewe kupata bonus ya malipo kila mwisho wa mwezi.\n<br>3.\tKupitia timu yako unayo itengeneza\n<br>Njia hii husaidiana na njia namba mbili ili kuweza kukuwezesha wewe kutengeneza kipato kikubwa kila mwezi.  Unapo fanya mauzo unatengeneza point ambazo ukuwezesha wewe kupata bonus.\n<br> Lakini pia mtu aliye chini yako naye akiuza bidhaa hutengeneza point hivyo zile point atakazo tengenea huongezwa kwenye point zako na pia kukusaidia wewe kutengeneza bonus kubwa\n<br>\n<br><b>NANI ANAWEZA KUWA MTEJA\n<br></b>Mwananchi yoyote anaetaka kurudisha Afya yake au kujikinga na Maradhi Nyemelezi na Hatarishi\n<br></p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rdVKJBly8x",
+          "_anchor": "content2-y",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content2-y"
+          "_params": {}
         },
         {
           "_styles": {
@@ -509,11 +528,11 @@
           "_name": "content5",
           "_customHTML": "<section class=\"mbr-section content5\" plugins=\"amp-main\" group=\"Article\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"page1.html\" data-app-placeholder=\"Type Text\">RUDI NYUMA</a></div>\n    </div>\n</section>",
           "_cid": "rdVKJC70WX",
+          "_anchor": "content5-z",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content5-z"
+          "_params": {}
         }
       ]
     },
@@ -538,11 +557,11 @@
           "_name": "content2",
           "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#eaeaea\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\"><b>JE NAWEZAJE KUPATA BIDHAA HIZI?\n</b></h3>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Unaweza pata bidhaa hizi kwa njia mbili\n<br>1.Kujiunga na kuwa mwanachama...hapa utapata bidhaa kwa bei ya punguzo kubwa ambalo unaweza kutumia bidhaa ai kuuza oia kwa watu wengine na ukajiongezea kipato\n<br>\n<br>2.Kununua bidhaa kwa bei ya rejareja kutoka kwa mabalozi ambao tayari wana dhamana yakupata bidhaa kwa bei ya jumla..hapa bei itapanda tofauti na ukinunua ukiwa balozi\n<br>\n<br>HITIMISHO:\n<br>Ni vyema kuchukua maamuzi yako sasa ili kuweza kufanikisha malengo yako. Kumbuka biashara hii ya mtandao unaweza kuifanya bila kuathiri shughuli zako na ukaweza kujitengenezea kipato cha ziada cha hadi 700000 kwa mwezi, \n<br> Unacho takiwa kujua ni namna ya kucheza na mitandao na kujua tu jinsi ya kutumia smartphone au computer na kuwashirikisha ndugu jamaa na marafiki wanao kuzunguka.\n<br> Kwa aliye tayari kujiunga na biashara hii basi anaweza wasiliana nasi kwa namba <b>0659505081</b> au Email: <b>faridisadick@outlook.com\n</b><br>\n<br>KARIBU SANA KWENYE ULIMWENGU WA MAFANIKIO&nbsp;<br></p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rdVL7U3Dbl",
+          "_anchor": "content2-10",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content2-10"
+          "_params": {}
         },
         {
           "_styles": {
@@ -553,11 +572,11 @@
           "_name": "content5",
           "_customHTML": "<section class=\"mbr-section content5\" plugins=\"amp-main\" group=\"Article\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-container\">\n        <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"page1.html\" data-app-placeholder=\"Type Text\">RUDI NYUMA</a></div>\n    </div>\n</section>",
           "_cid": "rdVL7UXNkE",
+          "_anchor": "content5-11",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content5-11"
+          "_params": {}
         }
       ]
     }
