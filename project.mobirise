@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-30_1755",
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 51,
+    "uniqCompNum": 54,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png"
   },
@@ -191,7 +191,7 @@
     "page1.html": {
       "settings": {
         "title": "TENGENEZA PESA KUPITIA BIASHARA YA MTANDAO (NETWORK MARKETING)",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -400,14 +400,14 @@
     "page2.html": {
       "settings": {
         "title": "TENGENEZA PESA KUPITIA YOUTUBE",
-        "order": 6
+        "order": 7
       },
       "components": []
     },
     "page3.html": {
       "settings": {
         "title": "KUHUSU KAMPUNI",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -451,7 +451,7 @@
     "page4.html": {
       "settings": {
         "title": "JINSI YA KUJIUNGA NA BF SUMA",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -495,7 +495,7 @@
     "page5.html": {
       "settings": {
         "title": "NJIA ZA KUTENGENEZA PESA BF SUMA",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -539,7 +539,7 @@
     "page6.html": {
       "settings": {
         "title": "NAMNA YA KUPATA BIDHAA",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -577,6 +577,70 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "title": "CONTACT US",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text": {
+              "padding": "2rem 0"
+            }
+          },
+          "_name": "content16",
+          "_customHTML": "<section class=\"content16 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#0dd1ff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-white mbr-bold\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\" mbr-text><i>Unaweza wasiliana nasi kwa</i><br><i> namba 0659505081</i><br><i> au</i><br><i> Email: faridisadick@outlook.com \n</i><div><i><br></i></div></div>\n    </div>\n</section>",
+          "_cid": "rei4Niic7c",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content16-1g"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "h1": {
+              "margin-bottom": "20px"
+            },
+            ".wrapper": {
+              "text-align": "center"
+            },
+            ".icons-list": {
+              "a": {
+                "display": "inline-block",
+                "padding": "1rem",
+                "margin": ".5rem",
+                "background": "@iconsBg",
+                ".iconfont-wrapper": {
+                  "display": "inline-block",
+                  "width": "~\"@{iconsSize}rem\"",
+                  "height": "~\"@{iconsSize}rem\"",
+                  ".amp-iconfont": {
+                    "color": "contrast(@iconsBg, darken(@iconsBg, 50%), #ffffff, 60%)",
+                    "font-size": "~\"@{iconsSize}rem\""
+                  }
+                }
+              }
+            }
+          },
+          "_name": "social-follow",
+          "_customHTML": "<section class=\"social-follow\" group=\"Social\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"range\" inline title=\"Icons Count\" name=\"iconsCount\" min=\"1\" max=\"10\" value=\"4\" step=\"1\">\n        <input type=\"range\" inline title=\"Icons Size\" name=\"iconsSize\" min=\"1\" max=\"5\" step=\"0.1\" value=\"3.5\">\n        <input type=\"color\" name=\"iconsBg\" title=\"Icons Bg\" value=\"#0dd1ff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n\n    <div class=\"wrapper\">\n        <h1 class=\"mbr-fonts-style align-center mbr-light\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\">WAWEZA TUFATA</h1>\n        <div class=\"icons-list\" mbr-list mbr-list-grow=\"iconsCount\">\n            <a href=\"http://www.youtube.com/c/TutorialCorner\" target=\"_blank\">\n                <span class=\"iconfont-wrapper\">\n                    <span mbr-icon class=\"amp-iconfont fa-youtube fa\"></span>\n                </span>\n            </a>\n            \n            \n            \n                \n                \n                \n                \n            <a href=\"https://facebook.com/MwanajamiiOnline\" target=\"_blank\">\n                <span class=\"iconfont-wrapper\">\n                    <span mbr-icon class=\"amp-iconfont fa-facebook-square fa\"></span>\n                </span>\n            </a><a href=\"https://twitter.com/mwanajamia\" target=\"_blank\">\n                <span class=\"iconfont-wrapper\">\n                    <span mbr-icon class=\"amp-iconfont fa-twitter-square fa\"></span>\n                </span>\n            </a><a href=\"https://wa.me/255659505081\" target=\"_blank\">\n                <span class=\"iconfont-wrapper\">\n                    <span mbr-icon class=\"amp-iconfont fa-whatsapp fa\"></span>\n                </span>\n            </a></div>\n        </div>\n    </section>",
+          "_cid": "rei56Qoj0k",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "social-follow-1h"
         }
       ]
     }
